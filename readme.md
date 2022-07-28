@@ -1,5 +1,5 @@
 # Assignment-3 ![](https://img.shields.io/badge/HTML-CSS-blueviolet)
-## (Food Restaurant Home Page) ![](https://img.shields.io/badge/Project3-Full--stack--JS-green)
+## (Law Home Page) ![](https://img.shields.io/badge/Project3-Full--stack--JS-green)
 
 > In this project, I have used HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets), which are two of the core technologies for building Web pages. It is a static and non-responsive page.
 
