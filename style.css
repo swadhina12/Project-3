@@ -8,6 +8,7 @@ body {
     height: 100vh;
     font-family: "Poppins", sans-serif;
 }
+/**navbar**/
 .navbar {
     height: 20vh;
     display: flex;
@@ -49,6 +50,7 @@ body {
     border: 2px solid #9d8c35;
     border-radius: 10px;
 }
+/**hero section**/
 .hero {
     height: 40vh;
     display: flex;
